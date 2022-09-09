@@ -91,6 +91,32 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	.DS_Store
 
+7). 
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+8). 
+commit 5876950ec9caf5cf51cae282b70749e48fb39c49 (HEAD -> main)
+Author: addie1999 <112737772+addie1999@users.noreply.github.com>
+Date:   Fri Sep 9 15:54:52 2022 -0400
+
+    Initial Commit
+    
+    Description of Initial Commit:
+    added README.md
+    added answers.md
+
+commit 4f524ce8bb0a8d3dc2176d8339ee49039aa1afdb (origin/main, origin/HEAD)
+Author: addie1999 <112737772+addie1999@users.noreply.github.com>
+Date:   Fri Sep 9 15:35:00 2022 -0400
+
+    Initial commit
 
 
