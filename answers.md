@@ -130,6 +130,20 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+10). 
+the changes were not applied to the local repository
+
+11).
+gives error saying that this is behind by 1 commit
+"branch is behind its remote"
+
+12).
+after the `git pull` the changes are included in the local branch
+
+13). 
+.		..		.git		.gitignore	README.md
+
+Done!
 
 
 
